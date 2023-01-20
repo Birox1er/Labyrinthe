@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/E1000/source/repos/Labyrinthe/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"C:/Users/E1000/source/repos/Labyrinthe/Content/Le_Labyrinthe/Labyrinthe/PC_Labyrithe.uasset",
+				"C:/Users/E1000/source/repos/Labyrinthe/Content/Le_Labyrinthe/Labyrinthe/GM_Labyrinthe.uasset",
+				"C:/Users/E1000/source/repos/Labyrinthe/Content/Le_Labyrinthe/Input/IA_Movement.uasset",
+				"C:/Users/E1000/source/repos/Labyrinthe/Content/Le_Labyrinthe/Input/IA_Activation.uasset",
+				"C:/Users/E1000/source/repos/Labyrinthe/Content/Le_Labyrinthe/Input/IMC_PlayerControls.uasset",
+				"C:/Users/E1000/source/repos/Labyrinthe/Content/Le_Labyrinthe/Maps/LabyrintheMap.umap",
+				"C:/Users/E1000/source/repos/Labyrinthe/Content/Le_Labyrinthe/Input/InputAction/IA_Activation.uasset",
+				"C:/Users/E1000/source/repos/Labyrinthe/Content/Le_Labyrinthe/Input/InputAction/IA_Movement.uasset",
+				"C:/Users/E1000/source/repos/Labyrinthe/Content/Le_Labyrinthe/Input/InputAction/IA_Camera.uasset",
+				"C:/Users/E1000/source/repos/Labyrinthe/Content/Le_Labyrinthe/Blueprints/NewFolder/AC_CastLineTrace.uasset",
+				"C:/Users/E1000/source/repos/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/E1000/source/repos/Labyrinthe/Content/Le_Labyrinthe/Blueprints/Component/AC_CastLineTrace.uasset",
+				"C:/Users/E1000/source/repos/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_Collision.uasset",
+				"C:/Users/E1000/source/repos/Labyrinthe/Content/Le_Labyrinthe/Labyrinthe/GI_Labyrithe.uasset",
+				"C:/Users/E1000/source/repos/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_Torche.uasset",
+				"C:/Users/E1000/source/repos/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_Lever.uasset",
+				"C:/Users/E1000/source/repos/Labyrinthe/Content/Le_Labyrinthe/Blueprints/Component/NewActorComponent.uasset"
+			]
+		}
+	]
+}
